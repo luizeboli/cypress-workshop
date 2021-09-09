@@ -1,0 +1,23 @@
+{
+  "name": "cypress-workshop",
+  "version": "1.0.0",
+  "description": "This is a workshop about Cypress presented to coworkers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizeboli/cypress-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizeboli/cypress-workshop/issues"
+  },
+  "homepage": "https://github.com/luizeboli/cypress-workshop#readme",
+  "devDependencies": {
+    "cypress": "^8.3.1"
+  }
+}
